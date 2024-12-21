@@ -52,10 +52,18 @@ Altri aspetti
 **Opere.** 1830, *Corso di filosofia positiva*
 **Pensiero.**
 - La scienza ha guidato la storia e può continuare a guidare la storia. Il metodo scientifico può essere applicato a tutti gli ambiti della vita.
-- **Legge dei tre stadi.** L'evoluzione delle scienze passa attraverso tre stadi:
+- **Legge dei tre stadi.** Attraverso lo studio della storia delle scienza (astronomia, fisica-meccanica, chimica, biologia) propone una legge di evoluzione delle scienze attraverso tre stadi:
   1. stadio teologico o fittizio: l'uomo usa l'immaginazione per dare una spiegazione tramite entità immaginarie soprannaturali 
   2. stadio metafisico: astrazioni personificate
   3. stadio positivo o scientifico: conoscenze tramite fatti e relazioni
+- C'è ancora una disciplina che non ha ancora compiuto l'ultimo passo: la **sociologia**. Necessità di compiere questo passo per comprendere, **prevedere** e controllare le dinamiche della società, ad esempio per evitare crisi. Visto che queste leggi non esistono, si procede "a tentoni". Lo scopo della filosofia di Comte è portare la sociologia a compiere questo ultimo passo, formulando una *scienza matura, con un numero limitato di leggi*. Con queste leggi Comte non si propone di capire il senso intimo della vita: non ci si occupa di entità astratte (noumeno come realtà profonda delle cose, del fenomeno, come Kant), ma solo di fatti concreti e misurabili, il resto sono parole
+- Mancano all'appello 3 discipline: matematica (linguaggio della scienza), logica (grammatica della scienza), psicologia. La psicologia deve essere divisa in due parti: gli argomenti sono riconducibili o alla biologia o alla sociologia.
+- **Sociologia.** Comte distingue due discipline all'interno della sociologia:
+  - statica sociale: fotografia dell'istante; a ogni sistema politico corrisponde un sistema economico e sociale; la statica si occupa dell'**ordine** di un tipo di società
+  - dinamica sociale: cambiamenti, **progresso**; per Comte la **storia** è una evoluzione che segue un **percorso necessario**, come Hegel
+    - per Hegel la storia è guidata dalla provvidenza, l'assoluto, una divinità spirituale; per Comte la storia è guidata dalla scienza
+    - chi porta avanti la scienza: uomini di genio; per Hegel, eroi o veggenti; per Comte, gli uomini di scienza
+
 ```
 
 ```{dropdown} Darwin
