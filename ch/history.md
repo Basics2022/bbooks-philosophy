@@ -1,5 +1,22 @@
 (philosophy-chronology)=
-# Cronologia
+# Cronologia filosofia occiedentale
+
+- Filosofia antica
+- Filosofia medievale
+- Filosofia moderna
+  - Neoplatonismo
+  - Naturalismo, Razionalismo, Materialismo, Meccanicismo, Empirismo
+  - Illuminismo
+  - Idealismo: Fichte, Shelling, Hegel
+  - Materialismo: Marx
+  - Esistenzialismo
+  - Positivismo
+- Filosofia del XX secolo
+  - Filosofia analitica: Russell, Moore, Wittgenstein; positivismo logico; empirismo logico
+  - Filosofia continentale: psicoanalisi (?), marxismo, fenomenologia, esistenzialismo, post-strutturalismo, post-modernismo, decostruzionismo, teoria critica,...
+
+## Romanticismo
+
 
 (pc:illuminism)=
 ## Illuminismo
@@ -13,6 +30,13 @@
 
 (pc:idealism)=
 ## Idealismo
+
+(pc:liberism)=
+## Liberismo
+Economisti classici: A.Smith -> illuminismo, D.Ricardo
+`````{dropdown}
+`````
+
 
 (pc:positivism)=
 ## Positivismo
@@ -39,7 +63,7 @@ Altri aspetti
 
 **Personaggi.**
 (pc:saint-simon)=
-```{dropdown} Saint-Simon (Parigi, )
+```{dropdown} Saint-Simon (Parigi, 1760 - 1825)
 **Biografia.**
 **Opere.**
 **Pensiero.** 
@@ -47,7 +71,7 @@ Altri aspetti
 - Scontro tra ceti produttivi e parassiti, i ceti improduttivi: padroni e operai dovrebbero allearsi contro nobili, clero, burocrati che vivono sulle spalle dei lavoratori
 ```
 (pc:comte)=
-```{dropdown} Comte
+```{dropdown} Comte (Montpellier, 1798 - Parigi, 1857)
 **Biografia** Allievo (**todo** *di che?*) di [Saint-Simon](pc:saint-simon). Crollo psicologico...
 **Opere.** 1830, *Corso di filosofia positiva*
 **Pensiero.**
@@ -66,10 +90,63 @@ Altri aspetti
 
 ```
 
-```{dropdown} Darwin
+(pc:bentham)=
+```{dropdown} Bentham (Londra, 1748 - 1832)
+**Pensiero.** Ispirandosi a C.Beccaria (Milano, 1738-1794), bisogna occuparsi di portare il maggior bene possibile al numero di persone maggiore possibile. **Utilitarismo**: bisogna muoversi secondo l'obiettivo di Beccaria, "misurando il bene", usando un insieme di parametri: prossimità, intensità, durata, fecondità,...Valutando piacere e dolore secondo questi parametri, si può valutare l'utilità delle azioni, distinguendo quelle virtuose da quelle dannosi.
+
+J.Mill, padre di [Stuard Mill](pc:sturart-mill) applica queste idee alla psicologia. Condizionamento da esperienze precedenti, favorisce un comportamento morale in senso utilitarista
 ```
 
-```{dropdown} Stuart Mill
+(pc:stuart-mill)=
+```{dropdown} Stuart Mill (1806 - 1873)
+**Biografia.** Moglie H.Taylor, contribuisce alle idee del marito.
+
+**Pensiero.** Utilitarista, positivista, liberalista. Pensatore politico
+- 1859 *On Liberty*, Stuart Mill presenta la sua idea di libertà. Il progresso si è fondato sulla diversità di opinione. Spesso un pensatore controcorrente ha portato progresso. Necessità di preservare la **libertà di opinione**. Minacce alla libertà di opinione: l'industria ha portato a un livellamento di consumi, omologazione; l'istruzione pubblica rischia di uniformare il pensiero; la politica parlamentare dà l'illusione di essere tutti uguali, ma c'è bisogno di differenza, di pluralità. C'è il rischio della *dittatura della maggioranza* (A. de Tocqueville): bisogna difendere anche chi la pensa diversamente, al costo di ascoltare opinioni estreme o assurde. Libertà di espressione (ma non di azione! Libertà di azione, a meno che limiti la libertà altrui) e controbattito. Anche le idee più assurde possono servire a rivedere le proprie opinioni. Esempio sulla forza di gravità: noi non ci facciamo caso, ma la percepiamo; speigarne l'esistenza a chi non ne crede può aiutare a rinforzare le proprie tesi, migliorare la nostra comprensione,...
+Due esempi in cui la maggioranza non ha avuto ragione: morte di Socrate e di Gesù.
+
+Libertà di azione, a meno che limiti la libertà di altri: contrario a legge vigente in UK contro l'omosessualità, contrario a proibizionismo alcolici,...
+
+Spinta verso riconoscimento diritti delle donne: si sta escludendo metà della popolazione del genere umano dalla vita sociale (no diritto di voto, necessità di tutore per amministrazione beni,...), nell'ambito del pluralismo. Le donne potevano essere meno capaci ad aministrare denaro, ma quello è un problema educativo non strutturale nella natura delle donne. Esempi: regine di Inghilterra, Elisabetta I (1533-1603) e Vittoria (1819-1901). Proposta di estensione diritti, matrimonio paritetico (nei matrimoni di vecchio stampo, le donne subivano un ricatto affettivo in famiglia; suddivisione compiti domestici, per liberare le donne dal ricatto affettivo di famiglia; i figli avranno educazione plurale, e quindi meglio),...
+
+```
+
+(pc:darwin)=
+```{dropdown} Darwin (Shrewsbury 1802 - Downe, 1882)
+Non propriamente un filosofo, ma le sue idee hanno forte influenza.
+
+**Pensiero.** Selezione naturale. Tutte le specie sono soggette a piccole mutazioni casuali; alcune di queste mutazioni - fino a un certo punto ininfluenti - possono rispondere meglio alle nuove esigenze createsi in seguito a un cambiamento improvviso dell'ambiente; nell'arco di alcune generazioni, gli individui con i geni "più adatti alla riproduzione" prosperano e questo dà origine all'evoluzione della specie. Osservazione in:
+- osservazioni bilogiche
+- osservazioni economiche? Malthus
+
+```
+
+(pc:spencer)=
+```{dropdown} Spencer (Derby, 1820 - Brighton, 1903)
+**Biografia.** Ingegnere in ambito ferroviario.
+
+**Opere**
+- 1860,
+
+**Pensiero.** Religione e scienza non sono antitetiche. La scienza si occupa di tutto quello che c'è dopo un limite, poiché non è in grado di spiegare la causa prima di quello che osserviamo.
+
+Qual è il ruolo della filosofia? Unificare religione e scienza, sotto la legge dell'evoluzione. Le scienze sono pervenute a 3 principi fondamentali:
+- industrittibilità della **materia**
+- continuità del **movimento**
+- persistenza della **forza**
+Con questi tre principi, Spencer pensa di aver formulato la **legge dell'evoluzione**: tutto procede da una situazione di minor coerenza a una di maggior coerenza (?), da una maggior omogeneità verso l'eterogeneità. Esempi: universo, società;...
+
+*Sopravvivenza del più adatto*: da un discorso biologico si passa a un discorso sociale, morale. Secondo Spencer, il futuro non può essere cambiato; ogni aspetto della vita evolve verso il bene seguendo la legge di evoluzione. Quindi, Spencer critica Comte e il suo desiderio di formulare le leggi della sociologia per poi prevedere l'evoluzione della società e intervenire. Per Spencer qualsiasi intervento è inutile (chi non ce la fa, pazienza, è inadatto e destinato a sparire). Questo pensiero ha un essito giustificazionista, l'evoluzione viaggia sempre verso il meglio, non c'è bisogno di cambiarlo, non c'è bisogno di criticarlo, non c'è bisogno di rivoluzioni...
+
+Tre fasi della storia umana: 1. militare, 2. industriale, 3. futura nella quale gli individui cureranno al proprio individualismo e coopereranno per il proprio bene.
+
+*(tutti principi che in un modo o nell'altro sono imprecisi o vengono sconvolti dalla fisica del XX secolo)*
+*(legge verso la diversficazione? Forse qualcosa di simile all'entropia...)*
+
+
 ```
 
 `````
+
+
+

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.9.16)  21 DEC 2024 14:58
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.9.16)  21 DEC 2024 16:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1659,30 +1659,38 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 ] [2
 
 ]
-LaTeX Info: Redefining \rmfamily on input line 124.
-LaTeX Info: Redefining \sffamily on input line 124.
-LaTeX Info: Redefining \ttfamily on input line 124.
+LaTeX Info: Redefining \rmfamily on input line 127.
+LaTeX Info: Redefining \sffamily on input line 127.
+LaTeX Info: Redefining \ttfamily on input line 127.
  [1]
-LaTeX Info: Redefining \rmfamily on input line 124.
-LaTeX Info: Redefining \sffamily on input line 124.
-LaTeX Info: Redefining \ttfamily on input line 124.
+LaTeX Info: Redefining \rmfamily on input line 127.
+LaTeX Info: Redefining \sffamily on input line 127.
+LaTeX Info: Redefining \ttfamily on input line 127.
  [2
 
 ]
 Capitolo 1.
 [3]
-LaTeX Info: Redefining \rmfamily on input line 276.
-LaTeX Info: Redefining \sffamily on input line 276.
-LaTeX Info: Redefining \ttfamily on input line 276.
+LaTeX Info: Redefining \rmfamily on input line 280.
+LaTeX Info: Redefining \sffamily on input line 280.
+LaTeX Info: Redefining \ttfamily on input line 280.
  [4]
-LaTeX Info: Redefining \rmfamily on input line 295.
-LaTeX Info: Redefining \sffamily on input line 295.
-LaTeX Info: Redefining \ttfamily on input line 295.
+LaTeX Info: Redefining \rmfamily on input line 359.
+LaTeX Info: Redefining \sffamily on input line 359.
+LaTeX Info: Redefining \ttfamily on input line 359.
  [5]
-LaTeX Info: Redefining \rmfamily on input line 295.
-LaTeX Info: Redefining \sffamily on input line 295.
-LaTeX Info: Redefining \ttfamily on input line 295.
- [6
+LaTeX Info: Redefining \rmfamily on input line 403.
+LaTeX Info: Redefining \sffamily on input line 403.
+LaTeX Info: Redefining \ttfamily on input line 403.
+ [6]
+LaTeX Info: Redefining \rmfamily on input line 451.
+LaTeX Info: Redefining \sffamily on input line 451.
+LaTeX Info: Redefining \ttfamily on input line 451.
+ [7]
+LaTeX Info: Redefining \rmfamily on input line 451.
+LaTeX Info: Redefining \sffamily on input line 451.
+LaTeX Info: Redefining \ttfamily on input line 451.
+ [8
 
 ]
 Capitolo 2.
@@ -1721,26 +1729,26 @@ braces):
 >  {italian/babelname}  =>  {italian}
 >  {italian/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {italian/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
+ [9]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 503.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 503.
  (./book.aux
 LaTeX Info: Redefining \rmfamily on input line 20.
 LaTeX Info: Redefining \sffamily on input line 20.
 LaTeX Info: Redefining \ttfamily on input line 20.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 347.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 503.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 503.
 Package rerunfilecheck Info: File `book.out' has not changed.
-(rerunfilecheck)             Checksum: 11BAB60E25EF2723D0DA23F0817EE277;496.
+(rerunfilecheck)             Checksum: 88BA223FE69FF4894BC348B55C44E3BF;640.
  ) 
 Here is how much of TeX's memory you used:
- 42050 strings out of 481789
- 944174 string characters out of 5937152
+ 42057 strings out of 481789
+ 944363 string characters out of 5937152
  1610669 words of memory out of 5000000
- 58251 multiletter control sequences out of 15000+600000
+ 58258 multiletter control sequences out of 15000+600000
  537742 words of font info for 94 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 71i,11n,109p,820b,2171s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,11n,109p,1141b,2040s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on book.pdf (11 pages).
+Output written on book.pdf (13 pages).

@@ -1,10 +1,12 @@
 \selectlanguage *{italian}
-\contentsline {chapter}{\numberline {1}Cronologia}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Illuminismo}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Idealismo}{3}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Positivismo}{3}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Argomenti}{7}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Ontologia}{7}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Metafisica}{7}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Storia e sociologia}{7}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Psicologia}{7}{section.2.4}%
+\contentsline {chapter}{\numberline {1}Cronologia filosofia occiedentale}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Romanticismo}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Illuminismo}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Idealismo}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Liberismo}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Positivismo}{4}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Argomenti}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ontologia}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Metafisica}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Storia e sociologia}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Psicologia}{9}{section.2.4}%
