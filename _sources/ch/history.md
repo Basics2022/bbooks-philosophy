@@ -1,6 +1,14 @@
 (philosophy-chronology)=
 # Cronologia
 
+- Romanticismo
+- Illuminismo
+- Idealismo
+- Positivismo
+
+## Romanticismo
+
+
 (pc:illuminism)=
 ## Illuminismo
 `````{dropdown}
@@ -39,7 +47,7 @@ Altri aspetti
 
 **Personaggi.**
 (pc:saint-simon)=
-```{dropdown} Saint-Simon (Parigi, )
+```{dropdown} Saint-Simon (Parigi, 1760 - 1825)
 **Biografia.**
 **Opere.**
 **Pensiero.** 
@@ -47,7 +55,7 @@ Altri aspetti
 - Scontro tra ceti produttivi e parassiti, i ceti improduttivi: padroni e operai dovrebbero allearsi contro nobili, clero, burocrati che vivono sulle spalle dei lavoratori
 ```
 (pc:comte)=
-```{dropdown} Comte
+```{dropdown} Comte (Montpellier, 1798 - Parigi, 1857)
 **Biografia** Allievo (**todo** *di che?*) di [Saint-Simon](pc:saint-simon). Crollo psicologico...
 **Opere.** 1830, *Corso di filosofia positiva*
 **Pensiero.**
@@ -66,10 +74,24 @@ Altri aspetti
 
 ```
 
-```{dropdown} Darwin
+(pc:bentham)=
+```{dropdown} Bentham (Londra, 1748 - 1832)
+**Pensiero.** Ispirandosi a C.Beccaria (Milano, 1738-1794), bisogna occuparsi di portare il maggior bene possibile al numero di persone maggiore possibile. **Utilitarismo**: bisogna muoversi secondo l'obiettivo di Beccaria, "misurando il bene", usando un insieme di parametri: prossimità, intensità, durata, fecondità,...Valutando piacere e dolore secondo questi parametri, si può valutare l'utilità delle azioni, distinguendo quelle virtuose da quelle dannosi.
+
+J.Mill, padre di [Stuard Mill](pc:sturart-mill) applica queste idee alla psicologia. Condizionamento da esperienze precedenti, favorisce un comportamento morale in senso utilitarista
 ```
 
-```{dropdown} Stuart Mill
+(pc:stuart-mill)=
+```{dropdown} Stuart Mill (1806 - 1873)
+**Biografia.** Moglie H.Taylor, contribuisce alle idee del marito.
+
+**Pensiero.** Utilitarista, positivista, liberalista. Pensatore politico
+- 1859 *On Liberty*, Stuart Mill presenta la sua idea di libertà. Il progresso si è fondato sulla diversità di opinione. Spesso un pensatore controcorrente ha portato progresso. Necessità di preservare la **libertà di opinione**. Minacce alla libertà di opinione: l'industria ha portato a un livellamento di consumi, omologazione; l'istruzione pubblica rischia di uniformare il pensiero; la politica parlamentare dà l'illusione di essere tutti uguali, ma c'è bisogno di differenza. C'è il rischio della *dittatura della maggioranza* (A. de Tocqueville)
+
+```
+
+(pc:darwin)=
+```{dropdown} Darwin (Shrewsbury 1802 - Downe, 1882)
 ```
 
 `````
