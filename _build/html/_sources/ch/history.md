@@ -3,7 +3,7 @@
 
 (pc:illuminism)=
 ## Illuminismo
-`````
+`````{dropdown}
 ```{dropdown}
 **Personaggi.**
 - Kant(Konigsberg, 1724-1804): critiche
