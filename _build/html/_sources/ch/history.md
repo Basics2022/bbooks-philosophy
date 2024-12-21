@@ -3,18 +3,20 @@
 
 (pc:illuminism)=
 ## Illuminismo
-```
+`````
+```{dropdown}
 **Personaggi.**
-- Kant(Ko temponigsberg, 1724-1804): critiche
+- Kant(Konigsberg, 1724-1804): critiche
 
 ```
+`````
 
 (pc:idealism)=
 ## Idealismo
 
 (pc:positivism)=
 ## Positivismo
-```{dropdown}
+`````{dropdown}
 **Contesto.** Sviluppo nella prima metà dell'XIX secolo in Francia e Gran Bretagna, diffusione nella seconda metà del secolo. Il secolo è caratterizzato dalla rivoluzione industriale.
 
 **Legami.**
@@ -36,7 +38,9 @@ Altri aspetti
 - positivismo evoluzionistico: influenzato da Darwin, filosofi prenderanno le osservazioni di Darwin sull'evoluzione per farne una legge di natura e applicarla agli ambiti della filosofia
 
 **Personaggi.**
+```{Saint-Simon}
+```
 - Comte
 - *Darwin*
 - Stuart Mill
-```
+`````
