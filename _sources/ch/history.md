@@ -1,10 +1,19 @@
 (philosophy-chronology)=
-# Cronologia
+# Cronologia filosofia occiedentale
 
-- Romanticismo
-- Illuminismo
-- Idealismo
-- Positivismo
+- Filosofia antica
+- Filosofia medievale
+- Filosofia moderna
+  - Neoplatonismo
+  - Naturalismo, Razionalismo, Materialismo, Meccanicismo, Empirismo
+  - Illuminismo
+  - Idealismo: Fichte, Shelling, Hegel
+  - Materialismo: Marx
+  - Esistenzialismo
+  - Positivismo
+- Filosofia del XX secolo
+  - Filosofia analitica: Russell, Moore, Wittgenstein; positivismo logico; empirismo logico
+  - Filosofia continentale: psicoanalisi (?), marxismo, fenomenologia, esistenzialismo, post-strutturalismo, post-modernismo, decostruzionismo, teoria critica,...
 
 ## Romanticismo
 
@@ -21,6 +30,13 @@
 
 (pc:idealism)=
 ## Idealismo
+
+(pc:liberism)=
+## Liberismo
+Economisti classici: A.Smith -> illuminismo, D.Ricardo
+`````{dropdown}
+`````
+
 
 (pc:positivism)=
 ## Positivismo
@@ -120,6 +136,10 @@ Qual è il ruolo della filosofia? Unificare religione e scienza, sotto la legge 
 - persistenza della **forza**
 Con questi tre principi, Spencer pensa di aver formulato la **legge dell'evoluzione**: tutto procede da una situazione di minor coerenza a una di maggior coerenza (?), da una maggior omogeneità verso l'eterogeneità. Esempi: universo, società;...
 
+*Sopravvivenza del più adatto*: da un discorso biologico si passa a un discorso sociale, morale. Secondo Spencer, il futuro non può essere cambiato; ogni aspetto della vita evolve verso il bene seguendo la legge di evoluzione. Quindi, Spencer critica Comte e il suo desiderio di formulare le leggi della sociologia per poi prevedere l'evoluzione della società e intervenire. Per Spencer qualsiasi intervento è inutile (chi non ce la fa, pazienza, è inadatto e destinato a sparire). Questo pensiero ha un essito giustificazionista, l'evoluzione viaggia sempre verso il meglio, non c'è bisogno di cambiarlo, non c'è bisogno di criticarlo, non c'è bisogno di rivoluzioni...
+
+Tre fasi della storia umana: 1. militare, 2. industriale, 3. futura nella quale gli individui cureranno al proprio individualismo e coopereranno per il proprio bene.
+
 *(tutti principi che in un modo o nell'altro sono imprecisi o vengono sconvolti dalla fisica del XX secolo)*
 *(legge verso la diversficazione? Forse qualcosa di simile all'entropia...)*
 
@@ -127,3 +147,6 @@ Con questi tre principi, Spencer pensa di aver formulato la **legge dell'evoluzi
 ```
 
 `````
+
+
+
