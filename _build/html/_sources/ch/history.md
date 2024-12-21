@@ -38,9 +38,14 @@ Altri aspetti
 - positivismo evoluzionistico: influenzato da Darwin, filosofi prenderanno le osservazioni di Darwin sull'evoluzione per farne una legge di natura e applicarla agli ambiti della filosofia
 
 **Personaggi.**
-```{Saint-Simon}
+```{dropdown} Saint-Simon (Parigi, )
+**Biografia.**
+**Pensiero.** 
+- Storia tende naturalmente al progresso, ma segnata da alternanza di *epoche critiche* ed *epoche organiche*. A inizio '800 è finita l'epoca critica della nascita di un nuova scienza e della rivoluzione industriale, ora che si sono imposte la storia e l'umanità può evolvere in maniera costante
+- Scontro tra ceti produttivi e parassiti, i ceti improduttivi: padroni e operai dovrebbero allearsi contro nobili, clero, burocrati che vivono sulle spalle dei lavoratori
 ```
-- Comte
+```{dropdown} Comte
+```
 - *Darwin*
 - Stuart Mill
 `````

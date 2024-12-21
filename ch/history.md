@@ -38,13 +38,30 @@ Altri aspetti
 - positivismo evoluzionistico: influenzato da Darwin, filosofi prenderanno le osservazioni di Darwin sull'evoluzione per farne una legge di natura e applicarla agli ambiti della filosofia
 
 **Personaggi.**
-```{dropdown} Saint-Simon
+(pc:saint-simon)=
+```{dropdown} Saint-Simon (Parigi, )
 **Biografia.**
+**Opere.**
 **Pensiero.** 
-- Epoche critiche ed epoche organiche
+- Storia tende naturalmente al progresso, ma segnata da alternanza di *epoche critiche* ed *epoche organiche*. A inizio '800 è finita l'epoca critica della nascita di un nuova scienza e della rivoluzione industriale, ora che si sono imposte la storia e l'umanità può evolvere in maniera costante
+- Scontro tra ceti produttivi e parassiti, i ceti improduttivi: padroni e operai dovrebbero allearsi contro nobili, clero, burocrati che vivono sulle spalle dei lavoratori
 ```
+(pc:comte)=
 ```{dropdown} Comte
+**Biografia** Allievo (**todo** *di che?*) di [Saint-Simon](pc:saint-simon). Crollo psicologico...
+**Opere.** 1830, *Corso di filosofia positiva*
+**Pensiero.**
+- La scienza ha guidato la storia e può continuare a guidare la storia. Il metodo scientifico può essere applicato a tutti gli ambiti della vita.
+- **Legge dei tre stadi.** L'evoluzione delle scienze passa attraverso tre stadi:
+  1. stadio teologico o fittizio: l'uomo usa l'immaginazione per dare una spiegazione tramite entità immaginarie soprannaturali 
+  2. stadio metafisico: astrazioni personificate
+  3. stadio positivo o scientifico: conoscenze tramite fatti e relazioni
 ```
-- *Darwin*
-- Stuart Mill
+
+```{dropdown} Darwin
+```
+
+```{dropdown} Stuart Mill
+```
+
 `````
