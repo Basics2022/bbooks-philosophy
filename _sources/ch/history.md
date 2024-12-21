@@ -38,9 +38,13 @@ Altri aspetti
 - positivismo evoluzionistico: influenzato da Darwin, filosofi prenderanno le osservazioni di Darwin sull'evoluzione per farne una legge di natura e applicarla agli ambiti della filosofia
 
 **Personaggi.**
-```{Saint-Simon}
+```{dropdown} Saint-Simon
+**Biografia.**
+**Pensiero.** 
+- Epoche critiche ed epoche organiche
 ```
-- Comte
+```{dropdown} Comte
+```
 - *Darwin*
 - Stuart Mill
 `````
