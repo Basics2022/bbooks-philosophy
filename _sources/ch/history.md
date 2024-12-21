@@ -1,16 +1,24 @@
 (philosophy-chronology)=
 # Cronologia
 
+(pc:illuminism)=
 ## Illuminismo
+```
+**Personaggi.**
+- Kant(Ko temponigsberg, 1724-1804): critiche
 
+```
+
+(pc:idealism)=
 ## Idealismo
 
+(pc:positivism)=
 ## Positivismo
 ```{dropdown}
 **Contesto.** Sviluppo nella prima metà dell'XIX secolo in Francia e Gran Bretagna, diffusione nella seconda metà del secolo. Il secolo è caratterizzato dalla rivoluzione industriale.
 
 **Legami.**
-- Illuminismo
+- Illuminismo: fiducia nella scienza; ma illuminismo critico nei confronti dell'esistente, gran differenza tra il mondo com'è e il mondo come dovrebbe essere (Kant, Voltaire, Rousseau); i filosofi positivisti invece sono allineati al pensiero dominante del tempo: la prima parte del positivismo è conservatrice, alllineata con i sovrani assoluti; la seconda parte è espressione della classe borghese, come classe dominante: pensiero dei risultati raggiunti
 
 **Argomenti.**
 - valorizzazione del progresso e della scienza, come unica forma di conoscenza valida, attraverso il metodo scientifico;
@@ -21,4 +29,14 @@
 Due periodi:
 - primo positivismo: sviluppatosi in Francia, Comte. Subisce ancora la forte influenza dell'idealismo. Filosofia progressista dal punto di vista scientifico, conservatrice dal punto di vista politico (contraria ai moti)
 - secondo positivismo: progressismo dal punto di vista scientifico e politico, filosofia liberale, che caratterizza il ceto borghese
+
+Altri aspetti
+- positivismo sociale: Comte, sociologia
+- positivismo (metodo)logico: Stuart Mill, si concentra sul metodo per fare scienza e conoscenza
+- positivismo evoluzionistico: influenzato da Darwin, filosofi prenderanno le osservazioni di Darwin sull'evoluzione per farne una legge di natura e applicarla agli ambiti della filosofia
+
+**Personaggi.**
+- Comte
+- *Darwin*
+- Stuart Mill
 ```

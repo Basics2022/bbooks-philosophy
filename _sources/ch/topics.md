@@ -1,7 +1,12 @@
+(philosophy-topics)=
 # Argomenti
+
+## Ontologia
+
+- Kant:
 
 ## Metafisica
 
-**Critici.** Kant, positivismo
+
 
 ##
